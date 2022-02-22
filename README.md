@@ -6,7 +6,7 @@
 </figure>
 ***
 <h2>Sobre:</h2>
-<p>Meus hobbies são:</br></p>
+<p>Meus hobbies são:</p>
 </p>🤾 Jogar handball em um time aqui de Minas Gerais(BH)</p>
 <p>🎮 Jogar jogos onlines tenho preferência por jogos de estratégias e RPG</p>
 
