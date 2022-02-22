@@ -4,7 +4,6 @@
 <figure>
 <img align="right" src="yogitocat.png" width=350px />
 </figure>
-***
 <h2>Sobre:</h2>
 <p>Meus hobbies são:</p>
 </p>🤾 Jogar handball em um time aqui de Minas Gerais(BH)</p>
