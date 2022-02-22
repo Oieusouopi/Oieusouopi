@@ -22,7 +22,7 @@
 <section>
   <h2>Tecnologias e Ferramentas</h2>
   <figure>
-    <img width=100px src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg"/>
+    <img width=90px src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg"/>
     <img width=100px src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"/>
     <img width=175px src="https://marcas-logos.net/wp-content/uploads/2020/11/JavaScript-logo.png"/>
     <img width=80px src="https://logodownload.org/wp-content/uploads/2017/04/css-3-logo.png"/>
