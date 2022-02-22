@@ -6,7 +6,7 @@
 </figure>
 ***
 <h2>Sobre:</h2>
-<p>Meus hobbies são 🤾 jogar handball e ter jogar jogos onlines tenho preferência por jogos de estratégias e RPG</p>
+<p>Meus hobbies são:</br> 🤾 jogar handball e ter jogar jogos onlines tenho preferência por jogos de estratégias e RPG</p>
 
 Reach me: <br/>
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com)](https://github.com/Oieusouopi) <br/>
