@@ -6,7 +6,9 @@
 </figure>
 ***
 <h2>Sobre:</h2>
-<p>Meus hobbies são:</br> 🤾 jogar handball em um time aqui de Minas Gerais(BH) </br>  🎮 jogar jogos onlines tenho preferência por jogos de estratégias e RPG</p>
+<p>Meus hobbies são:</br></p>
+</p>🤾 Jogar handball em um time aqui de Minas Gerais(BH)</p>
+<p>🎮 Jogar jogos onlines tenho preferência por jogos de estratégias e RPG</p>
 
 Reach me: <br/>
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com)](https://github.com/Oieusouopi) <br/>
