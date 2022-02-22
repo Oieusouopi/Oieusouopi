@@ -1,12 +1,12 @@
-Hello i´m Rafael!!!
+<h1>Oi meu nome é Rafael!!!</h1>
 
-Student at trybe in 2021/2022 learning Fundamentals, FrontEnd, BackEnd and Computer Science modules.
+<p>Estudante da trybe nos anos de 2021/2022 com os blocos de fundamentos do desenvolvimento web,desenvolvimento Front-end, desenvolvimento Back-end e Ciência da computação.</p>
+<figure>
 <img align="right" src="yogitocat.png" width=350px />
-
+</figure>
 ***
-Some curiosities about me:
-- I did two years as an electronics technician which gave me a background in Arduino.
-- I like to practice soft skills a lot
+<h2>Sobre:</h2>
+<p>Meus hobbies são 🤾 jogar handball e ter jogar jogos onlines tenho preferência por jogos de estratégias e RPG</p>
 
 Reach me: <br/>
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com)](https://github.com/Oieusouopi) <br/>
