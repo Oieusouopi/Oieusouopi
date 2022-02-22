@@ -1,4 +1,4 @@
-Helo i´m Rafael!!!
+Hello i´m Rafael!!!
 
 Student at trybe in 2021/2022 learning Fundamentals, FrontEnd, BackEnd and Computer Science modules.
 <img align="right" src="yogitocat.png" width=350px />
