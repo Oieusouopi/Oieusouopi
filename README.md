@@ -8,7 +8,7 @@
 
 <section>
   <h2>Sobre:</h2>
-  <p>Atualmente eu vivo codando, estou focado nos estudos na trybe e aprendendo cada vez mais gosto muito de <strong>Fron-end</strong> em utilizar o <strong>React</strong>, <strong>reutilizar os  componentes</strong>, <strong>refatorar os codigos</strong>, tenho alguns projetos no github utilizando esses conhecimentos e outros conhecimentos como <strong>Hooks(React-redux e contextAPI)</strong> CSS não é meu forte mas, sempre tento botar um design em meus projetos. </p>
+  <p>Atualmente eu vivo codando, estou focado nos estudos na trybe e aprendendo cada vez mais gosto muito de <strong>Front-end</strong> em utilizar o <strong>React</strong>, <strong>reutilizar os  componentes</strong>, <strong>refatorar os codigos</strong>, tenho alguns projetos no github utilizando esses conhecimentos e outros conhecimentos como <strong>Hooks(React-redux e contextAPI)</strong> CSS não é meu forte mas, sempre tento botar um design em meus projetos. </p>
   <p>Na área de <strong>Back-end</strong> estou aprendendo bastante sobre Nodejs atualmente e sempre tentando.</p>
 </section>
 
