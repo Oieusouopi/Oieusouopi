@@ -30,10 +30,12 @@
     <img width=100px src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />
     <img width=100px src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg" />
     <img width=100px src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" />
+    <img width=120px src="https://maisgeek.com/wp-content/uploads/2021/07/075c8694.jpeg" />
   </figure>
 </section>
 
 Contato: <br/>
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com)](https://github.com/Oieusouopi) <br/>
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/)](https://www.linkedin.com/in/rafael-santos-a84a35200/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/)](https://www.linkedin.com/in/rafael-santos-a84a35200/) <br/>
+![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white):rafasc866@gmail.com
   
