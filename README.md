@@ -32,6 +32,8 @@
     <img width=100px src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" />
     <img width=120px src="https://maisgeek.com/wp-content/uploads/2021/07/075c8694.jpeg" />
     <img width=120px src="https://jestjs.io/pt-BR/img/opengraph.png" />
+    <img width=120px src="https://i0.wp.com/podprogramar.com.br/wp-content/uploads/2019/06/sql_.png" />
+    <img width=120px src="https://www.portalgsti.com.br/media/uploads/marcomascarenhas/banco-de-dados-mysql.jpg"
   </figure>
 </section>
 
