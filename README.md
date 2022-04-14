@@ -31,6 +31,7 @@
     <img width=100px src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg" />
     <img width=100px src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" />
     <img width=120px src="https://maisgeek.com/wp-content/uploads/2021/07/075c8694.jpeg" />
+    <img width=120px src="https://jestjs.io/pt-BR/img/opengraph.png" />
   </figure>
 </section>
 
