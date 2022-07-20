@@ -42,5 +42,6 @@
 Contato: <br/>
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Oieusouopi) <br/>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/)](https://www.linkedin.com/in/rafael-santos-a84a35200/) <br/>
-![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white):rafasc866@gmail.com
-  
+![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white):rafasc866@gmail.com <br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oieusouopi&show_icons=true&theme=dark)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Oieusouopi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
