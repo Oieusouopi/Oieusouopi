@@ -10,6 +10,7 @@
   <h2>Sobre:</h2>
   <p>Atualmente eu vivo codando, estou focado nos estudos na trybe e aprendendo cada vez mais gosto muito de <strong>Front-end</strong> em utilizar o <strong>React</strong>, <strong>reutilizar os  componentes</strong>, <strong>refatorar os codigos</strong>, tenho alguns projetos no github utilizando esses conhecimentos e outros conhecimentos como <strong>Hooks(React-redux e contextAPI)</strong> CSS não é meu forte mas, sempre tento botar um design em meus projetos. </p>
   <p>Na área de <strong>Back-end</strong> tenho conhecimento em <strong>Docker</strong>(containers,criação de imagens,docker compose),<strong>SQL</strong>(banco de dados relacionais,filtrando dados,manipulação de tabela,funções SQL), <strong>Nodejs</strong>(fluxo assincrono,HTTP com Nodejs, middlewares) <strong>área de teste</strong>(mocha,chain,sinon), <strong>Sequelize</strong>(ORMs) e sempre buscando mais conhecimento em back.</p>
+  <p>Estou procurando me tornar um desenvolvedor full-stack e sempre estudando novas tecnologias para não ficar para trás neste mundo do desenvolvimento atualmente estou estudnado Java para criar APIs com SpringBoot e interfaces em Java atualmente as linguagens que tenho conhecimento são JavaScript,TypeSript e Python.</p>
 </section>
 
 <section>
