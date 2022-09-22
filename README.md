@@ -38,6 +38,8 @@
     <img width=185px src="https://marcofranssen.nl/images/681b1f62be27d6c8f99eb491c473786a4b716aab.png" />
     <img width=130px src="https://google.github.io/sqlcommenter/images/sequelize-logo.png" />
     <img width=140px src="https://www.ambientelivre.com.br/media/k2/items/cache/e9432fccf28a953514f077b86e5e657a_L.jpg" />
+    <img width=120px src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png" />
+    <img width=140px src="https://www.infoescola.com/wp-content/uploads/2011/03/java.jpg" />
   </figure>
 </section>
 
