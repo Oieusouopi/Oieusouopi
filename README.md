@@ -40,6 +40,7 @@
     <img width=140px src="https://www.ambientelivre.com.br/media/k2/items/cache/e9432fccf28a953514f077b86e5e657a_L.jpg" />
     <img width=120px src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png" />
     <img width=140px src="https://www.infoescola.com/wp-content/uploads/2011/03/java.jpg" />
+    <img width=130px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/640px-Typescript_logo_2020.svg.png" />
   </figure>
 </section>
 
