@@ -1,6 +1,9 @@
 <h1>Oi meu nome é Rafael Santos Carvalho!!!</h1>
 
+<p>Estudante do CEFET-MG fazendo curso de eletrônica nos anos de 2016 até 2020</p>
 <p>Estudante da trybe nos anos de 2021/2022 com os blocos de fundamentos do desenvolvimento web,desenvolvimento Front-end, desenvolvimento Back-end e Ciência da computação.</p>
+<p>Trabalho atualmente na Raposo Sistemas como desenvolvedor full-stack utilizando Java, Angular, Javascript, Typescript, Git, PostgresSQL, C#.</p>
+<p>Graduando em análise e desenvolvimento de sistemas na PUC-MG</p>
 
 <figure>
   <img alt="Imgprofile" align="right" src="yogitocat.png" width=350px />
@@ -8,7 +11,7 @@
 
 <section>
   <h2>Sobre:</h2>
-  <p>Atualmente eu vivo codando, estou focado nos estudos na trybe e aprendendo cada vez mais gosto muito de <strong>Front-end</strong> em utilizar o <strong>React</strong>, <strong>reutilizar os  componentes</strong>, <strong>refatorar os codigos</strong>, tenho alguns projetos no github utilizando esses conhecimentos e outros conhecimentos como <strong>Hooks(React-redux e contextAPI)</strong> CSS não é meu forte mas, sempre tento botar um design em meus projetos. </p>
+  <p>Atualmente eu trabalho como full-stack em uma empresa de software, estou sempre estudando e procurando melhorar as minhas hard skills e soft skills, tenho muita prática como desenvolvedor e programador . </p>
   <p>Na área de <strong>Back-end</strong> tenho conhecimento em <strong>Docker</strong>(containers,criação de imagens,docker compose),<strong>SQL</strong>(banco de dados relacionais,filtrando dados,manipulação de tabela,funções SQL), <strong>Nodejs</strong>(fluxo assincrono,HTTP com Nodejs, middlewares) <strong>área de teste</strong>(mocha,chain,sinon), <strong>Sequelize</strong>(ORMs) e sempre buscando mais conhecimento em back.</p>
   <p>Estou procurando me tornar um desenvolvedor full-stack e sempre estudando novas tecnologias para não ficar para trás neste mundo do desenvolvimento atualmente estou estudnado Java para criar APIs com SpringBoot e interfaces em Java atualmente as linguagens que tenho conhecimento são JavaScript,TypeSript e Python.</p>
 </section>
@@ -30,7 +33,7 @@
     <img width=100px src="https://git-scm.com/images/logos/logomark-orange@2x.png" />
     <img width=100px src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />
     <img width=100px src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg" />
-    <img width=100px src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" />
+    <img width=100px src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBwzWqFVu66ck-2u_nDBgLTZbR3cNjpUCbWg&s" />
     <img width=120px src="https://maisgeek.com/wp-content/uploads/2021/07/075c8694.jpeg" />
     <img width=120px src="https://jestjs.io/pt-BR/img/opengraph.png" />
     <img width=120px src="https://i0.wp.com/podprogramar.com.br/wp-content/uploads/2019/06/sql_.png" />
@@ -48,6 +51,6 @@
 Contato: <br/>
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Oieusouopi) <br/>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/)](https://www.linkedin.com/in/rafael-santos-a84a35200/) <br/>
-![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white):rafasc866@gmail.com <br/>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafasc866@gmail.com) <br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oieusouopi&show_icons=true&theme=dark)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Oieusouopi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
