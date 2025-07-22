@@ -13,7 +13,7 @@
   <h2>Sobre:</h2>
   <p>Atualmente eu trabalho como full-stack em uma empresa de software, estou sempre estudando e procurando melhorar as minhas hard skills e soft skills, tenho muita prática como desenvolvedor e programador . </p>
   <p>Na área de <strong>Back-end</strong> tenho conhecimento em <strong>Docker</strong>(containers,criação de imagens,docker compose),<strong>SQL</strong>(banco de dados relacionais,filtrando dados,manipulação de tabela,funções SQL), <strong>Nodejs</strong>(fluxo assincrono,HTTP com Nodejs, middlewares) <strong>área de teste</strong>(mocha,chain,sinon), <strong>Sequelize</strong>(ORMs) e sempre buscando mais conhecimento em back.</p>
-  <p>Estou procurando me tornar um desenvolvedor full-stack e sempre estudando novas tecnologias para não ficar para trás neste mundo do desenvolvimento atualmente estou estudnado Java para criar APIs com SpringBoot e interfaces em Java atualmente as linguagens que tenho conhecimento são JavaScript,TypeSript e Python.</p>
+  <p>Estou procurando sempre me desenvolver mais como desenvolvedor full-stack e sempre estudando novas tecnologias para não ficar para trás neste mundo do desenvolvimento atualmente estou estudando na PUC-MG.</p>
 </section>
 
 <section>
