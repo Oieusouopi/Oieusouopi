@@ -2,7 +2,7 @@
 
 <p>Estudante do CEFET-MG fazendo curso de eletrônica nos anos de 2016 até 2020</p>
 <p>Estudante da trybe nos anos de 2021/2022 com os blocos de fundamentos do desenvolvimento web,desenvolvimento Front-end, desenvolvimento Back-end e Ciência da computação.</p>
-<p>Trabalho atualmente na Raposo Sistemas como desenvolvedor full-stack utilizando Java, Angular, Javascript, Typescript, Git, PostgresSQL, C#.</p>
+<p>Trabalho atualmente na Raposo Sistemas como desenvolvedor full-stack utilizando Java, Angular, Docker, Javascript, Typescript, Git, PostgresSQL, C#.</p>
 <p>Graduando em Engenharia de software na PUC-MG</p>
 
 <figure>
